@@ -1,16 +1,19 @@
-## Hi there 👋
+# delmare
 
-<!--
-**im-delmare/im-delmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GEO & AEO strategist helping brands get cited by AI search engines.
 
-Here are some ideas to get you started:
+I research how AI systems discover, understand and cite brands, with a focus on fintech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+
+[delmare.pro](https://delmare.pro) — AI search visibility, GEO and AEO.
+
+## Research
+
+[AI Fintech Visibility Check](https://github.com/im-delmare/ai-fintech-visibility-check) — a practical checklist for testing whether European fintech websites are easy for AI systems to retrieve, understand and cite.
+
+[Case study: What AI Engines Cite When They Recommend a European Fintech?](https://delmare.pro/2026/10/05/what-ai-engines-cite-when-they-recommend-a-european-fintech/)
+
+## Focus
+
+AI search visibility · GEO · AEO · fintech
