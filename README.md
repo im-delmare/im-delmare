@@ -10,9 +10,9 @@ I research how AI systems discover, understand and cite brands, with a focus on 
 
 ## Research
 
-[AI Fintech Visibility Check](https://github.com/im-delmare/ai-fintech-visibility-check) — a practical checklist for testing whether European fintech websites are easy for AI systems to retrieve, understand and cite.
-
 [Embedded Finance Platforms in Europe: Comparison Dataset](https://github.com/im-delmare/embedded-finance-europe-comparison) — a sourced, dated dataset comparing European embedded finance platforms on APIs, banking, payments and lending.
+
+[AI Fintech Visibility Check](https://github.com/im-delmare/ai-fintech-visibility-check) — a practical checklist for testing whether European fintech websites are easy for AI systems to retrieve, understand and cite.
 
 ## Case Studies
 
